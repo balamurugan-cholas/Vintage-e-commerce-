@@ -77,6 +77,8 @@ git clone https://github.com/your-username/vintage-flask.git
 cd vintage-flask
 ```
 
-<pre>Set up a virtual environment (optional but recommended)</pre>
+2. **Set up a virtual environment (optional but recommended)**
+python -m venv venv
+source venv/bin/activate    # On Windows: venv\\Scripts\\activate
 
-![]
+
